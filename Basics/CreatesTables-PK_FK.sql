@@ -17,11 +17,6 @@ CREATE TABLE tb_Clientes(
 	nmTelefone2 VARCHAR(15)
 );
 
-CREATE TABLE  tb_Vendas(
-	cdVenda INT PRIMARY KEY IDENTITY(1,1),
-	cdProduto INT NOT NULL,
-	vlProduto DECIMAL (6,2) NOT NULL
-);
 
 
 -- FOREIGN KEY
