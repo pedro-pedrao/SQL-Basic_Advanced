@@ -21,4 +21,4 @@ INSERT INTO tb_Produtos (vlProduto, newProduto) VALUES (4.40, 'Suco de Maracujá
 
 -- Testando a Regra
 
-INSERT INTO tb_Vendas VALUES(3,3.2)
+INSERT INTO tb_Vendas VALUES(2,3.2)
